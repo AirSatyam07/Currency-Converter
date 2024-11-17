@@ -21,6 +21,8 @@ A simple and user-friendly **Currency Converter** application that allows users 
 ---
 
 ## Demo 🌐
+You can try the application live here: 
+[**Currency Converter - Live Demo**] (https://airsatyam07.github.io/Currency-Converter/)
 Here's how the application looks and works:
 
 1. Enter the amount you want to convert.
